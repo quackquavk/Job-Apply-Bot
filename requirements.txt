@@ -1,0 +1,4 @@
+selenium==4.16.0
+python-dotenv==1.0.0
+webdriver_manager==4.0.1
+langchain-google-genai==0.0.9
