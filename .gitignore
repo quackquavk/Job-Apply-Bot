@@ -1,3 +1,5 @@
 .env
 *.json
 *.pkl
+.venv
+*_cookies.pkl
